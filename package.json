@@ -1,5 +1,5 @@
 {
-  "name": "Hello Tabris",
+  "name": "js.tabris.helloworld",
   "description": "A sample Tabris.js application.",
   "main": "src/index.js",
   "dependencies": {
