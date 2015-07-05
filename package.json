@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "description": "My first Tabris.js app",
-  "main": "src\index.js",
+  "main": "src/index.js",
   "dependencies": {
     "tabris": "0.9.3"
   }
